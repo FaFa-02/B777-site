@@ -2,3 +2,8 @@ html {
     font-size: 10px;
     font-family: "Markazi Text", sans-serif;
 }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
